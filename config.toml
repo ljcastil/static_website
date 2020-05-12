@@ -1,6 +1,6 @@
 baseURL = "https://ljcastil.github.io/static_website/"
 #baseURL = "http://localhost/"
 languageCode = "en-us"
-title = "MSIG XXI - My New Hugo site"
+title = "MSIG XXI - My New site"
 theme = "ananke"
 publishDir = "docs" 
