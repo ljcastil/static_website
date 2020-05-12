@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on MSIG XXI - My New Hugo Site LC</title>
+    <title>Posts on MSIG XXI - My New Hugo Site by LCC</title>
     <link>https://ljcastil.github.io/static_website/posts/</link>
-    <description>Recent content in Posts on MSIG XXI - My New Hugo Site LC</description>
+    <description>Recent content in Posts on MSIG XXI - My New Hugo Site by LCC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 May 2020 21:48:42 -0500</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>My First Post LCC</title>
       <link>https://ljcastil.github.io/static_website/posts/my-first-post/</link>
       <pubDate>Mon, 11 May 2020 21:48:42 -0500</pubDate>
       
       <guid>https://ljcastil.github.io/static_website/posts/my-first-post/</guid>
-      <description></description>
+      <description>prueba datos</description>
     </item>
     
   </channel>
